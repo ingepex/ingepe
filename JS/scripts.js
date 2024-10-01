@@ -1,0 +1,2 @@
+recipiente= "tijera"
+alert(recipiente);
